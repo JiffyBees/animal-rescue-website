@@ -11,3 +11,12 @@ header {
   overflow: hidden;
   box-shadow: 0 .1em .4em rgba(0, 0, 0, .5);
 }
+
+.color-back {
+  fill: white;
+  background-color: grey;
+}
+
+.center {
+  display: inline-block;
+}
