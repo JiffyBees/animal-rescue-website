@@ -23,11 +23,16 @@ html {
 }
 
 .line {
-  border-bottom: 2px solid;
+  border-bottom: 2px solid orange;
   list-style-type: none;
 }
 
 .text-white {
   color: white;
   text-decoration: none;
+}
+
+.content-orange {
+  color: orange;
+  fill: orange;
 }
