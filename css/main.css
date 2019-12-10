@@ -4,7 +4,7 @@ html {
 }
 
 .orange {
-  background-color: orange;
+  background-color: #135c5d;
 }
 
 .action-card {
@@ -23,7 +23,7 @@ html {
 }
 
 .line {
-  border-bottom: 2px solid orange;
+  border-bottom: 2px solid #135c5d;
 }
 
 .b-white {
@@ -41,11 +41,15 @@ html {
 }
 
 .content-orange {
-  color: orange;
-  fill: orange;
+  color: #135c5d;
+  fill: #135c5d;
 }
 
 .box {
-  border: 2px solid orange;
+  border: 2px solid #135c5d;
   background-color: white;
+}
+
+a:hover {
+  color: grey;
 }
