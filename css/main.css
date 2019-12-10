@@ -24,6 +24,14 @@ html {
 
 .line {
   border-bottom: 2px solid orange;
+}
+
+.b-white {
+  border-color: white;
+}
+
+.line-b {
+  border-bottom: 2px solid black;
   list-style-type: none;
 }
 
@@ -35,4 +43,9 @@ html {
 .content-orange {
   color: orange;
   fill: orange;
+}
+
+.box {
+  border: 2px solid orange;
+  background-color: white;
 }
