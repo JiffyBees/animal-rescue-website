@@ -1,8 +1,9 @@
 html {
+  font-family: 'Montserrat', sans-serif;
   background-color: #f2f2f2;
 }
 
-header {
+.orange {
   background-color: orange;
 }
 
@@ -14,9 +15,19 @@ header {
 
 .color-back {
   fill: white;
-  background-color: grey;
+  background-color: black;
 }
 
 .center {
   display: inline-block;
+}
+
+.line {
+  border-bottom: 2px solid;
+  list-style-type: none;
+}
+
+.text-white {
+  color: white;
+  text-decoration: none;
 }
